@@ -66,6 +66,7 @@
 
 ## 도움이 될만한 링크
 #### 마크다운 작성법 
-- [유튜브 드림코딩 엘리 / 7분](https://youtu.be/kMEb_BzyUqk)
+- [드림코딩 엘리님 유튜브 / 7분](https://youtu.be/kMEb_BzyUqk)
 #### 깃허브 설정 및 기본 사용법 (터미널 사용)
-- [유튜브 드림코딩 엘리 / 47분](https://youtu.be/Z9dvM7qgN9s)
+- [드림코딩 엘리님 유튜브 / 47분](https://youtu.be/Z9dvM7qgN9s)
+- [우유식빵님 티스토리 블로그](https://waytocse.tistory.com/59)
