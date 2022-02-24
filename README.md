@@ -47,8 +47,8 @@
 
 ## Commit Message Convention
 #### 알고리즘 유형:[이슈번호] 작성자 - 문제이름
-  + 예시 : `Greedy:[#23] ohjiae - 회의실 배정`
-
+  + 문제 커밋 예시 : `Greedy:[#23] ohjiae - 회의실 배정`
+  + 발표 커밋 예시 : `Greedy:[#23][#3][#4] ohjiae - 발표`
 <br>
 
 ## Issue Convention
