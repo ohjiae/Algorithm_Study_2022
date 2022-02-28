@@ -73,8 +73,9 @@
   <br>
 
 ## Issue Convention
-- 예시 사진
-<br> 
+- 예시 사진<br>
+
+
 ![issue-ex](https://user-images.githubusercontent.com/77822999/156029584-47303392-ed3f-4034-8e26-7e2dc62e11c2.png)
 
 
