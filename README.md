@@ -53,7 +53,8 @@
 ## Commit Message Convention
 - 예시 사진<br>
 
-![commit-ex](https://user-images.githubusercontent.com/77822999/156034096-46260c46-5cfb-4a78-a9f8-480f7ade0125.png)
+![commit-ex](https://user-images.githubusercontent.com/77822999/156034396-2c3a8484-8d01-43b4-b9b7-95db5c00f69d.png)
+
 
 
 #### 알고리즘 유형:[이슈번호] 작성자 - 문제이름
