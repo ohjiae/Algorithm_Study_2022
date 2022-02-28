@@ -59,8 +59,7 @@
 
 - 예시 사진<br>
 
-![commit-ex](https://user-images.githubusercontent.com/77822999/156034396-2c3a8484-8d01-43b4-b9b7-95db5c00f69d.png)
-
+![commit-ex](https://user-images.githubusercontent.com/77822999/156035341-131d3409-75f6-4c5c-8add-064fd7056571.png)
 
 
 ## Pull Request Convention
