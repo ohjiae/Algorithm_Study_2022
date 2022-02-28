@@ -59,8 +59,11 @@
   <br>
 
 ## Pull Request Convention
+- 예시 사진<br>
 
-#### TITLE -> 알고리즘 유형:[이슈번호] 작성자 - (문제풀이/발표) 중 해당되는 것
+
+
+#### 알고리즘 유형:[이슈번호] 작성자 - (문제풀이/발표) 중 해당되는 것
 
 - **문제 1개만** 풀었을 때 :
   - `Greedy:[#23] ohjiae - 문제풀이`
@@ -75,8 +78,7 @@
 ## Issue Convention
 - 예시 사진<br>
 
-
-![issue-ex](https://user-images.githubusercontent.com/77822999/156029584-47303392-ed3f-4034-8e26-7e2dc62e11c2.png)
+![issue-ex](https://user-images.githubusercontent.com/77822999/156030422-98f6aed0-28d9-4a7d-99f8-fc661ab66532.png)
 
 
 #### [문제출처] 문제번호 - 문제이름 (발표자) _(문제 번호 없으면 기재 X)_
