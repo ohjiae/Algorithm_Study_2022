@@ -51,6 +51,10 @@
 <br>
 
 ## Commit Message Convention
+- 예시 사진<br>
+
+![commit-ex](https://user-images.githubusercontent.com/77822999/156032223-03b47b5f-2c09-41d0-95a9-6c4cb2037230.png)
+
 
 #### 알고리즘 유형:[이슈번호] 작성자 - 문제이름
 
