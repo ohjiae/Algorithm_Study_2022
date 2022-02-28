@@ -51,17 +51,17 @@
 <br>
 
 ## Commit Message Convention
-- 예시 사진<br>
-
-![commit-ex](https://user-images.githubusercontent.com/77822999/156034396-2c3a8484-8d01-43b4-b9b7-95db5c00f69d.png)
-
-
-
 #### 알고리즘 유형:[이슈번호] 작성자 - 문제이름
 
 - 문제 커밋 예시 : `Greedy:[#23] ohjiae - 회의실 배정`
 - 발표 커밋 예시 : `Greedy:[#23][#3][#4] ohjiae - 발표`
   <br>
+
+- 예시 사진<br>
+
+![commit-ex](https://user-images.githubusercontent.com/77822999/156034396-2c3a8484-8d01-43b4-b9b7-95db5c00f69d.png)
+
+
 
 ## Pull Request Convention
 - 예시 사진<br>
@@ -81,11 +81,6 @@
   <br>
 
 ## Issue Convention
-- 예시 사진<br>
-
-![issue-ex](https://user-images.githubusercontent.com/77822999/156030422-98f6aed0-28d9-4a7d-99f8-fc661ab66532.png)
-
-
 #### [문제출처] 문제번호 - 문제이름 (발표자) _(문제 번호 없으면 기재 X)_
 
 - 예시 : `[백준] 1931 - 회의실 배정 (오지애)`
@@ -99,6 +94,12 @@
   - 문제출처 : 백준 = `BOJ`, 프로그래머스 = `Programmers`, 릿코드 = `LeetCode`, 삼성 SWEA = `SWEA`
   - 알고리즘 유형 : `Greedy`, `DP`
   - 난이도 : `쉬움`, `보통`, `어려움`
+
+- 예시 사진<br>
+
+![issue-ex](https://user-images.githubusercontent.com/77822999/156030422-98f6aed0-28d9-4a7d-99f8-fc661ab66532.png)
+
+
 
 
 ## 참고
