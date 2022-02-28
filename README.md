@@ -73,14 +73,14 @@
   <br>
 
 ## Issue Convention
+예시 
+![issue-ex](https://user-images.githubusercontent.com/77822999/156029584-47303392-ed3f-4034-8e26-7e2dc62e11c2.png)
 
 #### [문제출처] 문제번호 - 문제이름 (발표자) _(문제 번호 없으면 기재 X)_
 
 - 예시 : `[백준] 1931 - 회의실 배정 (오지애)`
 - `[백준] 1003 - 피보나치 함수`
 - `[프로그래머스] 체육복`
-
-![issue-ex](https://user-images.githubusercontent.com/77822999/156029584-47303392-ed3f-4034-8e26-7e2dc62e11c2.png)
 
 
 #### 태그 **3개** 달아주세요
