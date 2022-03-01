@@ -26,6 +26,8 @@ def solution(priorities, location):
 
 ### 2) 결과
 
+![스크린샷 2022-03-01 오후 5 19 08](https://user-images.githubusercontent.com/77822999/156133711-2924ba6b-a095-44b7-8fcf-b76593e39571.png)
+
 ## 2. 예전 풀이
 
 ### 1) 코드
@@ -50,6 +52,9 @@ def solution(priorities, location):
 
 ### 2) 결과
 
+![스크린샷 2022-03-01 오후 5 19 39](https://user-images.githubusercontent.com/77822999/156133656-f44221fa-8b17-42a1-b0c5-9a049e6106eb.png)
+
+
 ## 2. 예전 풀이 보고 이번 풀이 수정
 
 ### 1) 코드
@@ -71,4 +76,5 @@ def solution(priorities, location):
     return answer
 ```
 
-### 2) 결과 : 2,5,18 런타임에러 (느려서 그런듯)
+### 2) 결과 : 
+- 2,5,18 런타임에러 (느려서 그런듯)
