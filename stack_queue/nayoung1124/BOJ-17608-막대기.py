@@ -8,8 +8,9 @@ if __name__ == '__main__':
         stack.append(a)
     current = stack.pop()
     while stack:
-        if current < stack[-1]:
+        right = stack.pop()
+        if current < right:
             ans += 1
-            current = stack[-1]
-        else: stack.pop()
+            current = right
+        else: pass
     print(ans)
