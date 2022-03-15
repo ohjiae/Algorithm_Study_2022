@@ -18,3 +18,4 @@ location = 0
 
 print(solution(priorities,location))
 
+
