@@ -8,8 +8,8 @@
 - 기준보다 클 경우에만 넣고 그걸 새로운 기준으로 만든다. 
 '''
 
-#from sys import stdin
-#input = stdin.readline
+from sys import stdin
+input = stdin.readline
 def stack():
     stk = [int(input()) for _ in range(int(input()))]
     longest = max(stk)
