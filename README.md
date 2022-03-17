@@ -6,6 +6,20 @@
 
 ## 스터디 방식
 
+### 발표순서
+  
+|순서|이름(git_id)|
+|---|------|
+|1|김도윤(dyoon1635)|
+|2|구다은 (koodaeun)|
+|3|김도형 (kimdozzi)|
+|4|박상일 (europani)|
+|5|오지애 (ohjiae)|
+|6|윤나영 (nayoung1124)|
+|7|이재명 (div-leejaemyeong)|
+
+
+
 #### 1) 매 주 돌아가며 3문제 제출 및 발표를 한다.
 
 - 문제는 순서인 사람이 해당 주 월요일 오전 8시 전까지 제출
@@ -97,28 +111,3 @@
 - 예시 사진<br>
 
 ![issue-ex](https://user-images.githubusercontent.com/77822999/156030422-98f6aed0-28d9-4a7d-99f8-fc661ab66532.png)
-
-
-
-
-## 참고
-
-<details>
-<summary>발표 순서 및 리뷰</summary>
-<div markdown="1">
-  
-### 순서
-  
-|주차|이름(git_id)|발표일|
-|---|------|--|
-|1 주차|김도윤(dyoon1635)|`3/17`|
-|1 주차|구다은 (koodaeun)|`3/17`|
-|2 주차|김도형 (kimdozzi)|`3/24`|
-|2 주차|박상일 (europani)|`3/24`|
-|3 주차|오지애 (aegohc)|`3/31`|
-|3 주차|윤나영 (nayoung1124)|`3/31`|
-|4 주차|이재명 (div-leejaemyeong)|`4/7`|
-
-
-</div>
-</details>
