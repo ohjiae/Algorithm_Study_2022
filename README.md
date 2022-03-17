@@ -99,15 +99,8 @@
 ![issue-ex](https://user-images.githubusercontent.com/77822999/156030422-98f6aed0-28d9-4a7d-99f8-fc661ab66532.png)
 
 
-
-
-## 참고
-
-<details>
-<summary>발표 순서 및 리뷰</summary>
-<div markdown="1">
   
-### 순서
+## 발표순서
   
 |주차|이름(git_id)|발표일|
 |---|------|--|
@@ -120,5 +113,3 @@
 |4 주차|이재명 (div-leejaemyeong)|`4/7`|
 
 
-</div>
-</details>
