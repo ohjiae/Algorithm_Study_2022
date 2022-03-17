@@ -14,7 +14,7 @@
 |2|구다은 (koodaeun)|
 |3|김도형 (kimdozzi)|
 |4|박상일 (europani)|
-|5|오지애 (aegohc)|
+|5|오지애 (ohjiae)|
 |6|윤나영 (nayoung1124)|
 |7|이재명 (div-leejaemyeong)|
 
