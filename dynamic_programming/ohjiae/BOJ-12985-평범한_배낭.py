@@ -14,6 +14,5 @@ for _ in range(N):
             dp[W] = V
         if dp[K-W] in dp:
             mv = max(dp[K-W]+dp[W], mv)
-        
 
 print(max(dp.values()))
