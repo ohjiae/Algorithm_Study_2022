@@ -19,8 +19,16 @@ def dfs(graph,V):
                 dfs(graph,i)
 
 bis = [False] * (N + 1)
+q=deque(V)
 def bfs(graph,V):
-
+    while q:
+        node = q.popleft()
+        bis[node] = True
+        print(node, end=' ')
+        if node in graph and len(graph[node])!=0:
+            for i in graph[node]:
+                if not bis[i]:
+                    q.append(i)     
 
 dfs(graph,V)
 bfs(graph,V)
