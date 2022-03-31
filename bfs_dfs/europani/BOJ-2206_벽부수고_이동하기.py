@@ -13,12 +13,13 @@ distance = [[[INF]*2 for _ in range(m)] for _ in range(n)]
 def bfs(start_x, start_y):
     queue = deque()
     queue.append((start_x, start_y, 0))
-    distance[start_x][start_y][0]=1
+    distance[start_x][start_y][0]=1         # 시작위치 거리 1로 초기화
 
     while queue:
         x, y, s = queue.popleft()
 
-        if x == n-1 and y == m-1:
+        # 종료조건
+        if x == n-1 and y == m-1:   
             return min(distance[n-1][m-1])
 
         for i in range(4):
