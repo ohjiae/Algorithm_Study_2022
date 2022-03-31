@@ -24,16 +24,16 @@ def dfs(V):
 dfs(V)
 print(*res)
 res = []
-vis = [False for _ in range(N+1)]
-q = deque([V])
 def bfs():
+    vis = [False for _ in range(N+1)]
+    q = deque([V])
+    vis[V] = True
     while q:
         node = q.popleft()
-        if not vis[node]:
-            res.append(node)
-            vis[node] = True
-            for n in graph[node]:
-                if not vis[n]:
-                    q.append(n)
+        res.append(node)
+        for n in graph[node]:
+            if not vis[n]:
+                q.append(n)
+                vis[n] = True
 bfs()
 print(*res)
