@@ -1,6 +1,3 @@
-#from sys import stdin
-#input =  stdin.readline
-
 def dfs(g,x,y):
     g[x][y] = 0
     for i in [(-1,0),(0,1),(0,-1),(1,0)]:
