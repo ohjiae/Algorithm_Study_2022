@@ -15,17 +15,6 @@ N, K = list(map(int, input().split()))
 #         mv = max(dp[K-w]+dp[w], mv)
 # print(mv)
 
-# 10 12
-# 6 14
-# 5 12
-# 11 12
-# 1 5
-# 12 20
-# 6 17
-# 3 16
-# 2 5
-# 7 10
-# 4 4
 
 dp = []
 for _ in range(N):
