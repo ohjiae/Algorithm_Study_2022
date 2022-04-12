@@ -12,11 +12,10 @@
 |---|------|
 |1|김도윤(dyoon1635)|
 |2|구다은 (koodaeun)|
-|3|김도형 (kimdozzi)|
-|4|박상일 (europani)|
-|5|오지애 (ohjiae)|
-|6|윤나영 (nayoung1124)|
-|7|이재명 (div-leejaemyeong)|
+|3|박상일 (europani)|
+|4|오지애 (ohjiae)|
+|5|윤나영 (nayoung1124)|
+|6|이재명 (div-leejaemyeong)|
 
 
 
