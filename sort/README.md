@@ -118,6 +118,7 @@ def quick_sort(array):
 array = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8]  
 print(quick_sort(array)
 ```
+<br>
 
 ### 6. 계수정렬
 - 모든 데이터가 양의 정수인 상황에서 데이터의 개수를 N, 데이터 중 최대값의 크기를 K라고 할 때, 
