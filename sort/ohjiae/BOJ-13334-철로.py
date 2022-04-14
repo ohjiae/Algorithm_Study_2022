@@ -9,7 +9,7 @@ for _ in range(int(input())):
 d = int(input())
 
 def chk(li):
-    li.sort()
+    li.sort(key = lambda x : x[1])
     cnt = {}
     for l in li:
         if l[2] < d:
