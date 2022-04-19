@@ -1,36 +1,40 @@
+# 유기농 배추
 import sys
+sys.setrecursionlimit(10**7)    #재귀호출 최대 횟수를 늘려준다, 파이썬에서 기본 재귀깊이는 1000이기 때문에 이것을 늘려준것
 from collections import deque
+input = sys.stdin.readline
 
-n, m, start = map(int, sys.stdin.readline().split())    
-graph = [[] for i in range(n+1)]
+#상하좌우
+dx = [-1, 1, 0, 0]
+dy = [0, 0, -1, 1]
 
-for i in range(m):
-    n1, n2 = map(int, sys.stdin.readline().split())
-    graph[n1].append(n2)
-    graph[n2].append(n1)   
 
-def dfs(graph, start, visited):
-    visited[start] = True
-    print(start, end=' ')
-    graph[start].sort()     
-    for node in graph[start]:
-        if not visited[node]:
-            dfs(graph, node, visited)
+def dfs(x, y):
 
-def bfs(graph, start, visited):
-    queue = deque([start])
-    visited[start] = True
-    while queue:
-        now = queue.popleft()
-        print(now, end=' ')
-        graph[now].sort()       
-        for i in graph[now]:
-            if not visited[i]:
-                queue.append(i)
-                visited[i] = True
+    for i in range(4):
+        nx = dx[i] + x
+        ny = dy[i] + y
 
-visited = [False] * (n+1)
-dfs(graph, start, visited)
-visited = [False] * (n+1)
-print()
-bfs(graph, start, visited)
+        if 0 <= nx < n and 0 <= ny < m and baechubat[nx][ny] == 1:  #범위에 속하면서 배추가 있느 경우
+            baechubat[nx][ny] = -1  #방문처리
+            dfs(nx, ny)
+
+
+T = int(input().rstrip())   #테스트케이스 수
+
+for _ in range(T):  #T만큼 반복
+    m, n, k = map(int, input().split()) #가로, 세로, 배추 수
+    baechubat = [[0]*m for _ in range(n)]
+    count = 0  #지렁이... ->변수선언 위치 이유; 테케마다 각각 세고 출력해줘야 해서
+
+    for _ in range(k):
+        a, b = map(int, input().split())
+        baechubat[b][a] = 1     #가로 세로 기준이니까 좌표는 반대로 넣어줘야함
+
+    for i in range(n):
+        for j in range(m):
+            if baechubat[i][j] == 1:
+                dfs(i, j)
+                count += 1
+
+    print(count)
