@@ -1,4 +1,4 @@
-n, m = list(map(int, input().split(' ')))
+n, m = list(map(int, input().split()))
 array = list(map(int, input().split()))
 
 start = 0
