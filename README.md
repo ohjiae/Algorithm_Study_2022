@@ -11,7 +11,7 @@
 |순서|이름(git_id)|
 |---|------|
 |1|김도윤(dyoon1635)|
-|2|구다은 (koodaeun)|
+|2|김도형 (kimdozzi)|
 |3|박상일 (europani)|
 |4|오지애 (ohjiae)|
 |5|윤나영 (nayoung1124)|
