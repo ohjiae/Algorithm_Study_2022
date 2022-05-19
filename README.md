@@ -11,13 +11,11 @@
 |순서|이름(git_id)|
 |---|------|
 |1|김도윤(dyoon1635)|
-|2|김도형 (kimdozzi)|
-|3|박상일 (europani)|
-|4|오지애 (ohjiae)|
-|5|윤나영 (nayoung1124)|
-|6|이재명 (div-leejaemyeong)|
-
-
+|2|박상일 (europani)|
+|3|오지애 (ohjiae)|
+|4|윤나영 (nayoung1124)|
+|5|이재명 (div-leejaemyeong)|
+|6|김도형 (kimdozzi)|
 
 #### 1) 매 주 돌아가며 3문제 제출 및 발표를 한다.
 
