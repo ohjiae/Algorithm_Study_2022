@@ -34,3 +34,5 @@ if __name__ == "__main__":
     for i in matrix:
         print(*i)
     print(targetX+1, targetY+1)
+
+    # unboundlocalerror
