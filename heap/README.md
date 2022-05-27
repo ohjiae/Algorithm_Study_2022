@@ -95,9 +95,9 @@
 
 
 > - 참고 사이트 및 자료 출처 
-[LearnersBucket](https://learnersbucket.com/tutorials/array/heap-data-structure-in-javascript/)
-[힙 (자료 구조) - 위키 백과](https://ko.wikipedia.org/wiki/%ED%9E%99_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0))
-[[DataStructure>Tree] Heap - Jay님 블로그](https://medium.com/@jyw198908/heap-45bbad579e0c)
-[힙(Heap) 이란? - 오늘의코드 블로그](https://todaycode.tistory.com/56)
-[Heap Sort 정렬 알고리즘 - Zeddios님 블로그](https://zeddios.tistory.com/56)
+[LearnersBucket](https://learnersbucket.com/tutorials/array/heap-data-structure-in-javascript/) / 
+[힙 (자료 구조) - 위키 백과](https://ko.wikipedia.org/wiki/%ED%9E%99_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)) / 
+[[DataStructure>Tree] Heap - Jay님 블로그](https://medium.com/@jyw198908/heap-45bbad579e0c) / 
+[힙(Heap) 이란? - 오늘의코드 블로그](https://todaycode.tistory.com/56) / 
+[Heap Sort 정렬 알고리즘 - Zeddios님 블로그](https://zeddios.tistory.com/56) / 
 [Why is Binary Heap Preferred over BST for Priority Queue? - GeeksforGeeks](https://www.geeksforgeeks.org/why-is-binary-heap-preferred-over-bst-for-priority-queue/)
