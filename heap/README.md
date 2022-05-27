@@ -60,14 +60,57 @@
   - 트리와 배열의 인덱스 순서를 알 수 있는 그림 (빨간숫자가 인덱스)
 	
   ### ⌨️ 코드
- 	 
-  
+	파이썬에서는 기본적으로 내장함수인 heapq를 사용함
+
+	힙은 기본적으로 빈 리스트에서 시작해 힙 모듈로 원소를 추가(heappush)하거나,
+	기존의 리스트를 힙 구조로 만들어 주고(heapify) 시작한다.
+	
+	1. 힙 리스트 생성
+	
+	1) 빈 리스트 생성 + 원소 추가
+
+	# 빈 리스트 생성
+	heap_list = []
+
+	# 원소 추가 : heapq.heappush(리스트명, 원소)
+	heapq.heappush(heap_list, 3)
+	heapq.heappush(heap_list, 7)
+	heapq.heappush(heap_list, 1)
+	heapq.heappush(heap_list, 5)
+	heapq.heappush(heap_list, 9)
+
+	# 확인
+	print(heap_list)
+
+	> [1, 5, 3, 7, 9]
+	
+	
+	2) 기존 리스트 힙 구조로 변경
+
+	# 기존 리스트
+	heap_list = [3,7,1,5,9]
+
+	# 힙 구조화
+	heapq.heapify(heap_list)
+
+	# 확인
+	print(heap_list)
+
+	> [1, 5, 3, 7, 9]
+	3) root 노드 위치의 원소 리턴 후 삭제.
+
+	# 최소힙 리스트
+	heap_list = [3,7,1,5,9]
+	heapq.heapify(heap_list)
+
+	# 원소 삭제 후 다시 힙 구조화
+	heapq.heappop(heap_list) # 리턴 후 삭제, list의 pop처럼.
+
+	# 확인
+	print(heap_list)
+	> [3, 5, 9, 7]
 
 <br>
-
----  
-
-
 
 ---
 
