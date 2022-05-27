@@ -1,5 +1,3 @@
-# Algorithm_Study_2022
-
 # 1. Heap 
 ## ✅ 자료구조
 ### **heap(힙)**이란? 
