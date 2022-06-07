@@ -4,6 +4,10 @@
 - 언어 : Python
 - 참고 사이트 : [백준](https://www.acmicpc.net/) / [프로그래머스](https://programmers.co.kr/) / [Leetcode](https://leetcode.com/explore/) / [SW Expert Academy](https://swexpertacademy.com/)
 
+<br>
+<p>
+</p>
+
 ## 스터디 방식
 
 ### 1. 매 주 아래 순서대로 5문제 제출 (금요일 오후 6시 전)
@@ -19,8 +23,8 @@
 |7|은경|
 |8|오지애(ohjiae)|
 
-<p>
-</p>
+<br>
+</br>  
 
 ### 2. 출제일별 난이도, 문제 수
 
@@ -36,8 +40,8 @@
 - **`어려움`** : 백준 = 골드 3 이상
 - 프로그래머스는 재량껏 레벨2 이상 난이도 매겨주세요. 좋은 문제는 레벨 1도 가능
 
-<p>
-</p>  
+<br>
+</br>  
   
 ### 3. 주 2회 **오후 9시** 코드 리뷰
 
