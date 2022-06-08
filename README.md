@@ -14,7 +14,7 @@
   
 |순서|이름(git_id)|
 |---|------|
-|1|이재명(div-leejaemyeong)|
+|1|이재명(dev-leejaemyeong)|
 |2|전소현(sohyeonnn)|
 |3|김도윤(dyoon1635)|
 |4|김은서(kimes9408)|
